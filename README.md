@@ -1,0 +1,1 @@
+# solarsnap-eclipse

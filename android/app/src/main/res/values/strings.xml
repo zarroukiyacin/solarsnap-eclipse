@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SolarSnap Eclipse Camera</string>
+    <string name="title_activity_main">SolarSnap Eclipse Camera</string>
+    <string name="package_name">com.solarsnap.eclipse</string>
+    <string name="custom_url_scheme">com.solarsnap.eclipse</string>
+</resources>

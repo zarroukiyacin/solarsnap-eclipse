@@ -1,0 +1,6 @@
+{
+  "name": "SolarSnap Eclipse Camera & Assistant",
+  "description": "Application de photographie d'éclipse solaire avec réglages spécifiques (exposition, zoom, verrouillage), simulateur de filtre solaire, calculateur d'exposition et assistant d'éclipse.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
